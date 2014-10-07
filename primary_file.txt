@@ -1,5 +1,4 @@
 This is my first file
 E aí está uma bela editada!
-Ultimas linhas modificadas.
 O arquivo completo ficou pronto.
-
+Ultimas linhas modificadas.
