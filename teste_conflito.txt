@@ -4,7 +4,7 @@ A certificação de metodologias que nos auxiliam a lidar com o escopo
 das preferências de consumo representa uma abertura para a melhoria
 do aceite do cliente inegavelmente apropriado.
 
-esta linha sera o nosso exemplo.
+<p>esta linha sera o nosso exemplo.</p> Aqui ficam as modificacoes
 
 A certificação de metodologias que nos auxiliam a lidar com o escopo 
 das preferências de consumo representa uma abertura para a melhoria
