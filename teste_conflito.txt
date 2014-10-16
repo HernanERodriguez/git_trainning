@@ -1,0 +1,11 @@
+Este arquivo foi criado para testar os conflitos durante um merge.
+
+A certificação de metodologias que nos auxiliam a lidar com o escopo 
+das preferências de consumo representa uma abertura para a melhoria
+do aceite do cliente inegavelmente apropriado.
+
+esta linha sera o nosso exemplo.
+
+A certificação de metodologias que nos auxiliam a lidar com o escopo 
+das preferências de consumo representa uma abertura para a melhoria
+do aceite do cliente inegavelmente apropriado.
