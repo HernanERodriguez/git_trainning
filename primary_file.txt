@@ -3,3 +3,4 @@ E aí está uma bela editada!
 O arquivo completo ficou pronto.
 Ultimas linhas modificadas.
 Testando o uso de branches
+Testamos agora o true merge
