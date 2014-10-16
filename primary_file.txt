@@ -1,5 +1,4 @@
-This is my first file
-E aí está uma bela editada!
+Este eh o meu primeiro arquivo
 O arquivo completo ficou pronto.
 Ultimas linhas modificadas.
 Testando o uso de branches
