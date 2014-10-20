@@ -1,5 +1,5 @@
 Este eh o meu primeiro arquivo
 O arquivo completo ficou pronto.
 Ultimas linhas modificadas.
-Testando o uso de branches
+Testando o uso de branches e remote branches.
 Testamos agora o true merge
