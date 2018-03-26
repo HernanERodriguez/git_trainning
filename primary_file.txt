@@ -3,3 +3,4 @@ O arquivo completo ficou pronto.
 Ultimas linhas modificadas.
 Testando o uso de branches e remote branches.
 Testamos agora o true merge
+Otra linea
